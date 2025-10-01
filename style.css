@@ -1,2 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Cabin:ital,wght@0,400..700;1,400..700&display=swap');
+:root{
+    --fonte-titulo:'Archivo Black display';
+    --fonte-texto: 'Archivo Black family';
+}
