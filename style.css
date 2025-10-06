@@ -4,8 +4,8 @@
 :root{
     --fonte-titulo:'Archivo Black display';
     --fonte-texto: 'Archivo Black family';
-    --cor-principal: #007ACC; 
-    --cor-segundaria: #E7005A;
-    --cor-destaque:#252526;
-    --cot-texto: #FFFFFF;
+    --cor-principal: #F5F5DC; 
+    --cor-segundaria: #B2EBF2;
+    --cor-destaque:#FFDAB9;
+    --cor-texto: #5D4037;
 }
