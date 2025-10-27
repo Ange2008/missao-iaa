@@ -32,7 +32,7 @@ h1{
     color: var(--cor-destaque);
 }
 button{
-    background-color: var(--cor-segundaria);
+    background-color: var(--cor-secundaria);
     color: var(--cor-texto);
     border: none;
     border-radius: 15px;
