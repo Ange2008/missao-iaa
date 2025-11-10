@@ -2,12 +2,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Cabin:ital,wght@0,400..700;1,400..700&display=swap');
 
 :root{
-    --fonte-titulo:'Archivo Black display';
-    --fonte-texto: 'Archivo Black family';
-    --cor-principal: #F5F5DC; 
-    --cor-secundaria: #B2EBF2;
+    --fonte-titulo: 'Archivo+Black';
+    --fonte-texto:'Archivo+Black family';
+    --cor-principal:#F5F5DC;
+    --cor-secundaria:#B2EBF2;
     --cor-destaque:#de9a5e;
-    --cor-texto: #5D4037;
+    --cor-texto:#5D4037;
 }
 body{
     background-color: var(--cor-principal);
@@ -37,9 +37,9 @@ button{
     border: none;
     border-radius: 15px;
     padding: 15px;
-    transition: background-color 0.3s;
+    background-color: background-color 0.3s;
 }
-button :hover{
+button:hover{
     background-color: var(--cor-destaque);
     color: var(--cor-principal);
 }
