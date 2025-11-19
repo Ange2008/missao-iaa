@@ -45,14 +45,14 @@ export const perguntas = [
             afirmacao:[
                   "O uso estratégico das redes sociais para consumir conteúdo de influência fortalece a capacidade cognitiva e social dos usuários, equipando-os com habilidades essenciais de filtragem de informação e expandindo significativamente suas redes de apoio e comunidades de interesse além das barreiras geográficas."
             ],
-            proxima:3,
+            proxima:5,
         },
         {
             texto:"O consumo passivo e algorítmico de conteúdo de influência enfraquece o pensamento crítico ao priorizar o conteúdo polarizado e o engajamento emocional em vez da análise aprofundada. Isso leva ao fenômeno de câmaras de eco (echo chambers), à superficialidade nas relações interpessoais e, em última análise, ao isolamento social, tornando os indivíduos mais suscetíveis à manipulação.",
             afirmacao: [
                   "O uso constante das redes sociais para consumir influência enfraquece o pensamento crítico e a coesão social, pois o design algorítmico prioriza o conteúdo polarizador e emocional que prende a atenção, isolando os indivíduos em câmaras de eco e promovendo a superficialidade nas interações humanas."
             ],
-            proxima: 4,
+            proxima: 6,
         }
     ]
 },
@@ -64,14 +64,14 @@ export const perguntas = [
             afirmacao:[
                  "O marketing de influência é um modelo econômico sustentável que democratiza o acesso à publicidade para empresas de todos os tamanhos, resultando em maior competitividade de mercado e oferecendo aos consumidores informações mais autênticas e relevantes sobre produtos e serviços em nichos específicos."
             ],
-            proxima:3,
+            proxima:7,
         },
         {
             texto: "A saturação de conteúdo pago nas redes sociais inflaciona o custo da publicidade para as empresas e sobrecarrega o consumidor com um fluxo constante de recomendações nem sempre autênticas. Isso dificulta a avaliação honesta dos produtos, criando uma bolha de consumo baseada na aparência e no endosso pago em vez da qualidade real, minando a confiança a longo prazo.",
             afirmacao: [
                   "A dependência do marketing de influência gera um modelo insustentável que inflaciona significativamente os custos de publicidade e prejudica o consumidor ao criar uma saturação de conteúdo pago e não autêntico, dificultando a avaliação real da qualidade de produtos e serviços."
             ],
-            proxima: 4,
+            proxima: 8,
         }
     ]
 },
@@ -83,14 +83,14 @@ export const perguntas = [
             afirmacao:[
                "A influência digital é um instrumento de poder transformador que facilita o ativismo efetivo, pois permite a rápida mobilização de capital social e político, cria transparência e visibilidade para violações de direitos e estabelece uma pressão popular imediata e inegável que obriga instituições e governos a agirem."
             ],
-            proxima:3,
+            proxima:9,
         },
         {
             texto: "A maior parte do engajamento social nas redes é superficial e vazia (slacktivism), pois se limita a cliques e compartilhamentos sem exigir esforço ou risco real dos usuários. Isso leva à saturação de causas e à falsa sensação de dever cumprido, desviando a atenção e os recursos de formas de ativismo mais significativas e estruturais.",
             afirmacao: [
                  "A influência digital frequentemente leva ao ativismo de sofá (slacktivism), pois o engajamento social é majoritariamente superficial, emocional e de baixo custo, o que desvia energia e recursos de formas de ativismo mais significativas e estruturais, resultando em uma ilusão de mudança sem impacto real a longo prazo."
             ],
-            proxima: 4,
+            proxima: 10,
         }
     ]
 },
